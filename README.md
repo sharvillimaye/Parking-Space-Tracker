@@ -1,1 +1,3 @@
-# Parking-Space-Counter
+# Parking Space Counter
+
+![Image](image.png)
